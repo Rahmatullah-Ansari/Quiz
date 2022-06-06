@@ -1,4 +1,4 @@
-package com.example.quizme;
+package com.android.quiz;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 
 
-import com.example.quizme.databinding.ActivityResultBinding;
+import com.android.quiz.databinding.ActivityResultBinding;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.FieldValue;
 import com.google.firebase.firestore.FirebaseFirestore;

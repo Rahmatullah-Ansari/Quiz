@@ -1,4 +1,4 @@
-package com.example.quizme;
+package com.android.quiz;
 
 import com.google.firebase.firestore.ServerTimestamp;
 

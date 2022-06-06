@@ -1,4 +1,4 @@
-package com.example.quizme.SpinWheel.model;
+package com.android.quiz.SpinWheel.model;
 
 /**
  * Created by kiennguyen on 11/5/16.

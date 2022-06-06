@@ -1,4 +1,4 @@
-package com.example.quizme.SpinWheel;
+package com.android.quiz.SpinWheel;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -13,8 +13,8 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 
 
-import com.example.quizme.R;
-import com.example.quizme.SpinWheel.model.LuckyItem;
+import com.android.quiz.R;
+import com.android.quiz.SpinWheel.model.LuckyItem;
 
 import java.util.List;
 

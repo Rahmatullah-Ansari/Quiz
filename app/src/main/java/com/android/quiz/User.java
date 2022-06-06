@@ -1,4 +1,4 @@
-package com.example.quizme;
+package com.android.quiz;
 
 public class User {
     private String name, email, pass,profile, referCode;

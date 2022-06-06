@@ -1,4 +1,4 @@
-package com.example.quizme;
+package com.android.quiz;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,9 +7,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
-import com.example.quizme.SpinWheel.LuckyWheelView;
-import com.example.quizme.SpinWheel.model.LuckyItem;
-import com.example.quizme.databinding.ActivitySpinnerBinding;
+import com.android.quiz.SpinWheel.LuckyWheelView;
+import com.android.quiz.SpinWheel.model.LuckyItem;
+import com.android.quiz.databinding.ActivitySpinnerBinding;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.FieldValue;

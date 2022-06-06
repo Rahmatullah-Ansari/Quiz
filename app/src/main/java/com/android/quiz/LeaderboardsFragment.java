@@ -1,4 +1,4 @@
-package com.example.quizme;
+package com.android.quiz;
 
 import android.os.Bundle;
 
@@ -9,9 +9,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.quizme.databinding.FragmentLeaderboardsBinding;
+import com.android.quiz.databinding.FragmentLeaderboardsBinding;
 import com.google.android.gms.tasks.OnSuccessListener;
-import com.google.firebase.auth.FirebaseAuthSettings;
 import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.Query;

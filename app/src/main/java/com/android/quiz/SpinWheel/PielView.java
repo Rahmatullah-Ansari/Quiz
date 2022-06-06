@@ -1,4 +1,4 @@
-package com.example.quizme.SpinWheel;
+package com.android.quiz.SpinWheel;
 
 import android.animation.Animator;
 import android.animation.TimeInterpolator;
@@ -26,12 +26,10 @@ import android.view.animation.DecelerateInterpolator;
 import android.view.animation.LinearInterpolator;
 
 import androidx.annotation.IntDef;
-import androidx.core.content.res.ResourcesCompat;
 import androidx.core.graphics.ColorUtils;
 
 
-import com.example.quizme.R;
-import com.example.quizme.SpinWheel.model.LuckyItem;
+import com.android.quiz.SpinWheel.model.LuckyItem;
 
 import java.util.List;
 import java.util.Random;
